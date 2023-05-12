@@ -1,2 +1,4 @@
 # site-002
-- fazendo alterações 
+
+- fazendo alterações
+- treine muito pratique
